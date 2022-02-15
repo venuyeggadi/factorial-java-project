@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.math.FactorialCalculatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-02-15T11:26:05" hostname="VENUY-PC" time="0.044">
+  <properties/>
+  <testcase name="factorialOfZeroIsOne()" classname="com.thoughtworks.math.FactorialCalculatorTest" time="0.031"/>
+  <testcase name="factorialOfNegativeNumberThrowsException()" classname="com.thoughtworks.math.FactorialCalculatorTest" time="0.006"/>
+  <testcase name="factorialOfThreeIsSix()" classname="com.thoughtworks.math.FactorialCalculatorTest" time="0.002"/>
+  <testcase name="factorialOfOneIsOne()" classname="com.thoughtworks.math.FactorialCalculatorTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
